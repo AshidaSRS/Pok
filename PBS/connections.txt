@@ -1,0 +1,8 @@
+# Ruta 1 (15) - Ciudad Paleta (2)
+15,North,0,2,South,7
+# Ciudad Paleta (2) - Ruta 3 (36)
+2,161,126,36,0,0
+# Puerto Carmin (21) - Ciudad Carmín (20)
+21,South,0,20,North,8
+# Puerto Carmin (21) - Ruta 1 (15)
+21,North,5,15,South,0

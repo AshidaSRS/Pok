@@ -1,0 +1,54 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,HGS 170,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerC=POKEMONTRAINER_Red,Brendan (rs),boy_bike,boy_surf,Brendan (rs) Run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerD=POKEMONTRAINER_Leaf,May,girl_bike,MaySurf,MayRun,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerVictoryME=Victory - Trainer.mid
+PlayerE=POKEMONTRAINER_Red,diamond,diamond-bike,boy_surf_offset,diamond-run,boy_dive_offset,HGSS 271,boy_fishsurf_offset
+WildVictoryME=Victory - Wild Pokemon.mid
+PlayerF=POKEMONTRAINER_Leaf,HGSS 214,girl_bike,girl_surf_offset,HGSS 247,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+PlayerG=POKEMONTRAINER_Red,Gold_anda,Gold_bici,Gold_surf,Gold_corre,boy_dive_offset,Gold_pesca,boy_fishsurf_offset
+PlayerH=POKEMONTRAINER_Leaf,HGSS 082,HGSS 072,HGSS 074,HGSS 070,girl_dive_offset,HGSS 080,girl_fishsurf_offset
+SurfBGM=Ship.mid
+BicycleBGM=Airship.mid
+Home=78,15,5,2
+WildBattleBGM=002-Battle02.mid
+[002]
+# Ciudad Paleta
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+HealingSpot=4,9,12
+ShowArea=true
+[015]
+# Ruta 1
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[020]
+# Ciudad Carmín
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+HealingSpot=22,9,12
+ShowArea=true
+[021]
+# Puerto Carmin
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[035]
+# Ruta 2
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[036]
+# Ruta 3
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+ShowArea=true

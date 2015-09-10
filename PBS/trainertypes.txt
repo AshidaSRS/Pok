@@ -1,0 +1,81 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+0,POKEMONTRAINER_Red,Entrenador Pokemon,60,,,,Male,
+1,POKEMONTRAINER_Leaf,Entrenadora Pokemon,60,,,,Female,
+2,RIVAL1,Rival,36,,,,Male,
+3,RIVAL2,Rival,36,,,,Female,
+4,RIVAL3,Rival,36,,,,Male,
+5,RIVAL4,Rival,36,,,,Female,
+6,AROMALADY,Aroma Lady,32,,,,Female,
+7,BEAUTY,Bella,56,,,,Female,
+8,BIKER,Motorista,32,,,,Male,
+9,BIRDKEEPER,Ornitologo,32,,,,Male,
+10,BUGCATCHER,Cazador de bichos,16,,,,Male,
+11,BURGLAR,Ladron,88,,,,Male,32
+12,CHANELLER,Espiritualista,32,,,,Female,
+13,CUEBALL,Calvo,24,,,,Male,
+14,ENGINEER,Ingeniero,48,,,,Male,
+15,FISHERMAN,Pescador,32,,,,Male,
+16,GAMBLER,Gambler,72,,,,Male,32
+17,GENTLEMAN,Caballero,72,,,,Male,
+18,HIKER,Montañero,32,,,,Male,
+19,JUGGLER,Malabarista,32,,,,Male,
+20,LADY,Señorita,160,,,,Female,72
+21,PAINTER,Pintor,16,,,,Female,
+22,POKEMANIAC,Poké Maniatico,64,,,,Male,
+23,POKEMONBREEDER,Cuidadora Pokemon,48,,,,Female,
+24,PROFESSOR,Profesor,100,,,,Male,
+25,ROCKER,Zumbao,24,,,,Male,
+26,RUINMANIAC,Arqueologo,48,,,,Male,
+27,SAILOR,Marinero,32,,,,Male,
+28,SCIENTIST,Cientfico,48,,,,Male,
+29,SUPERNERD,SuperNerd,48,,,,Male,
+30,TAMER,Adiestrador,40,,,,Male,
+31,BLACKBELT,Cinturon Negro,32,,,,Male,
+32,CRUSHGIRL,Deportista,24,,,,Female,
+33,CAMPER,Campista,16,,,,Male,
+34,PICNICKER,Campista,16,,,,Female,
+35,COOLTRAINER_M,Entrenador Guay,60,,,,Male,
+36,COOLTRAINER_F,Entrenador Guay,60,,,,Female,
+37,YOUNGSTER,Joven,16,,,,Male,
+38,LASS,Joven,16,,,,Female,
+39,POKEMONRANGER_M,Guarda Pokémon,60,,,,Male,
+40,POKEMONRANGER_F,Guarda Pokémon,60,,,,Female,
+41,PSYCHIC_M,Psiquico,32,,,,Male,
+42,PSYCHIC_F,Psiquico,32,,,,Female,
+43,SWIMMER_M,Nadador,16,,,,Male,32
+44,SWIMMER_F,Nadadora,16,,,,Female,32
+45,SWIMMER2_M,Nadador,16,,,,Male,32
+46,SWIMMER2_F,Nadadora,16,,,,Female,32
+47,TUBER_M,Veraneante,4,,,,Male,16
+48,TUBER_F,Veraneante,4,,,,Female,16
+49,TUBER2_M,Veraneante,4,,,,Male,16
+50,TUBER2_F,Veraneante,4,,,,Female,16
+51,COOLCOUPLE,Pareja Guay,72,,,,Mixed,48
+52,CRUSHKIN,Karatekas,48,,,,Mixed,
+53,SISANDBRO,Veraneantes,16,,,,Mixed,48
+54,TWINS,Gemelas,24,,,,Mixed,
+55,YOUNGCOUPLE,Pareja Joven,60,,,,Mixed,32
+56,TEAMROCKET_M,Equipo Rocket,32,,,,Male,
+57,TEAMROCKET_F,Equipo Rocket,32,,,,Female,
+58,ROCKETBOSS,Jefe Rocket,100,,,,Male,
+59,LEADER_Finio,Lider de gimnasio,100,gymleader,,,Male,
+60,LEADER_Misty,Lider de gimnasio,100,gymleader,,,Female,
+61,LEADER_Surge,Lider de gimnasio,100,gymleader,,,Male,
+62,LEADER_Erika,Lider de gimnasio,100,gymleader,,,Female,
+63,LEADER_Koga,Lider de gimnasio,100,gymleader,,,Male,
+64,LEADER_Sabrina,Lider de gimnasio,100,gymleader,,,Female,
+65,LEADER_Blaine,Lider de gimnasio,100,gymleader,,,Male,
+66,LEADER_Giovanni,Lider de gimnasio,100,gymleader,,,Male,
+67,ELITEFOUR_Lorelei,Elite,100,elite,,,Female,
+68,ELITEFOUR_Bruno,Elite,100,elite,,,Male,
+69,ELITEFOUR_Agatha,Elite,100,elite,,,Female,
+70,ELITEFOUR_Lance,Elite,100,elite,,,Male,
+71,CHAMPION,Campeon,100,elite,,,Male,
+72,TEAMMAGMA,Equipo Rocket,230,,,,Mixed,
+73,TRIATHLETEFEMALECYCLIST,Lider de gimnasio,30,,,,Male,
+74,LEADERROXANNE,Lider de gimnasio,30,,,,Female,
+75,LEADERROXANNE_1,Lider de gimnaiso,250,,,,Female,
+76,NINIA,Niña,16,,,,Female,
+77,NINIOBIEN,NiñoBien,20,,,,Male,
+82,CAPITAN,Capitan,35,,,,Male,
+78,RIVAL5,Rival,36,,,,Male,
