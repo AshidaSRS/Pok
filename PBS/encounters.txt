@@ -50,7 +50,7 @@ VENIPEDE,4
 VENIPEDE,5,6
 VENIPEDE,4,5
 #########################
-020 # Ciudad Carmín
+020 # Ciudad Canela
 25,10,10
 Water
 TENTACOOL,14,19
@@ -88,7 +88,7 @@ SABLEYE,8
 SABLEYE,9
 SABLEYE,10
 #########################
-029 # Mansión Pokemon 2F
+029 # MansiÃ³n Pokemon 2F
 25,10,10
 Cave
 DUSKULL,8
@@ -104,7 +104,7 @@ SABLEYE,8
 SABLEYE,9
 SABLEYE,10
 #########################
-030 # Mansión Pokemon 3F
+030 # MansiÃ³n Pokemon 3F
 25,10,10
 Cave
 DRIFLOON,8
@@ -119,6 +119,7 @@ MISDREAVUS,10
 SABLEYE,8
 SABLEYE,9
 SABLEYE,10
+#########################
 035 # Ruta 2
 25,10,10
 #########################
@@ -185,4 +186,3 @@ ROGGENROLA,13,15
 WOOBAT,15
 WOOBAT,16
 WOOBAT,14
-#########################

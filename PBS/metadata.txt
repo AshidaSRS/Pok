@@ -28,14 +28,14 @@ Bicycle=true
 Outdoor=true
 ShowArea=true
 [020]
-# Ciudad Carmín
+# Ciudad Canela
 Weather=Rain,80
 Bicycle=true
 Outdoor=true
 HealingSpot=22,9,12
 ShowArea=true
 [021]
-# Puerto Carmin
+# Puerto Canela
 Weather=Rain,80
 Bicycle=true
 Outdoor=true
@@ -48,6 +48,18 @@ Outdoor=true
 ShowArea=true
 [036]
 # Ruta 3
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[040]
+# Ruta 3
+Weather=Rain,80
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[041]
+# Ciudad Cárdeno
 Weather=Rain,80
 Bicycle=true
 Outdoor=true
